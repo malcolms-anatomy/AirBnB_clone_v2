@@ -16,4 +16,4 @@ The project currently only implements the back-end console.
 
 ## Authors:
 - **[Malcolm Iheremelam - LinkedIn](https://www.linkedin.com/in/malcolm-iheremelam/)**
-- **[Aniediong Etim - LinkedIn](https://www.linkedin.com/in/aniediong-etim-b6224221b)**
+- **[Dutchess Feni]**
